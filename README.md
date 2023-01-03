@@ -1,1 +1,1 @@
-Site clone do site da Starucks, desenvolvido em HTML5 e CSS3.
+Site clone do site da Starbucks, desenvolvido em HTML5 e CSS3.
